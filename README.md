@@ -5,8 +5,6 @@
 - **Duration:** 10 JUNE 2024 to 10 AUG 2024
 - **Mentor:** MR. MUZZAMIL AHEMED
 
-- [Contact](#contact)
-- [Project Screenshots](#Project-Screenshots)
 
 ## Weather Forecasting Website
 
