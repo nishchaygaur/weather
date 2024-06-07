@@ -1,4 +1,11 @@
-# Weather Forecasting Website
+**Name:** Nishchay Gaur
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT12DS508
+**Domain:** WEB DEVELOPMENT
+**Duration:** 10 JUNE 2024 to 10 AUG 2024
+**Mentor:** MR. MUZZAMIL AHEMED
+
+## Weather Forecasting Website
 
 Welcome to the Weather Forecasting Website repository! This project is designed to provide accurate and up-to-date weather forecasts for any location around the globe. This README file will guide you through the setup, usage, and contribution process for the project.
 
