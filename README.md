@@ -1,9 +1,9 @@
 **Name:** Nishchay Gaur
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT12DS508
-**Domain:** WEB DEVELOPMENT
-**Duration:** 10 JUNE 2024 to 10 AUG 2024
-**Mentor:** MR. MUZZAMIL AHEMED
+-**Company:** CODTECH IT SOLUTIONS
+-**ID:** CT12DS508
+-**Domain:** WEB DEVELOPMENT
+-**Duration:** 10 JUNE 2024 to 10 AUG 2024
+-**Mentor:** MR. MUZZAMIL AHEMED
 
 ## Weather Forecasting Website
 
