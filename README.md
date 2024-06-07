@@ -11,6 +11,7 @@ Welcome to the Weather Forecasting Website repository! This project is designed 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Project Screenshots](#Project-Screenshots)
 
 ## Project Overview
 
