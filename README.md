@@ -64,7 +64,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [nishchaygaur40@gmail.com](nishchaygaur40@gmail.com)
 
-Project Link: [https://github.com/nishchaygaur/weather](https://github.com/nishchaygaur/weather)
+Project Link: [lINKEDIN lINK]()
+Project Link: [https://github.com/nishchaygaur/weather]([https://github.com/nishchaygaur/weather](https://www.linkedin.com/posts/nishchay-gaur-286ba6290_webdevelopment-coding-project-activity-7208091807434358784-DnX9?utm_source=share&utm_medium=member_desktop))
 Preview: [Weather App](https://nishchaygaur.github.io/weather/)
 
 
